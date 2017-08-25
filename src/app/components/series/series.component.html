@@ -1,0 +1,9 @@
+<div class="customView">
+  <h3>{{title}}</h3>
+  <div *ngFor="let serie of series" class="row">
+    <div class="col">{{ serie.titulo }}</div>
+    <div class="col">{{ serie.autor }}</div>
+    <div class="col">{{ serie.tituloOriginal }}</div>
+    <div class="col">{{ serie.ano }}</div>
+  </div>
+</div>

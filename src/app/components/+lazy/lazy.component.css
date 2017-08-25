@@ -1,0 +1,9 @@
+.customView{
+  position: fixed;
+  top : 60px;
+}
+
+h3{
+  color : slategrey;
+  text-transform: lowercase;
+}

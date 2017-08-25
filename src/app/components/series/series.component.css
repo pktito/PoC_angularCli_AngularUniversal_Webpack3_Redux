@@ -1,0 +1,10 @@
+.customView{
+  position: fixed;
+  top : 60px;
+  width: 100%;
+}
+
+h3 extends h3{
+  color : slategrey;
+  text-transform: uppercase;
+}
